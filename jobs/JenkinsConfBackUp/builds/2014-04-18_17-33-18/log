@@ -1,0 +1,48 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/jobs/JenkinsConfBackUp/workspace
+[workspace] $ /bin/sh /tmp/hudson7461611407712666823.sh
+diff --git a/jobs/JenkinsConfBackUp/builds/2014-04-18_17-30-27/log b/jobs/JenkinsConfBackUp/builds/2014-04-18_17-30-27/log
+index 04d6ad7..1f96030 100644
+--- a/jobs/JenkinsConfBackUp/builds/2014-04-18_17-30-27/log
++++ b/jobs/JenkinsConfBackUp/builds/2014-04-18_17-30-27/log
+@@ -50,3 +50,24 @@ index a45fd52..7273c0f 100644
+ @@ -1 +1 @@
+ -24
+ +25
++[master 1d3690a] JenkinsConfBackUp
++ Committer: Jenkins Continuous Build server <jenkins@vc-hec-test.(none)>
++Your name and email address were configured automatically based
++on your username and hostname. Please check that they are accurate.
++You can suppress this message by setting them explicitly:
++
++    git config --global user.name "Your Name"
++    git config --global user.email you@example.com
++
++After doing this, you may fix the identity used for this commit with:
++
++    git commit --amend --reset-author
++
++ 7 files changed, 110 insertions(+), 2 deletions(-)
++ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-22-56/build.xml
++ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-30-27/changelog.xml
++ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-30-27/log
++ create mode 120000 jobs/JenkinsConfBackUp/builds/24
++Build was aborted
++Aborted by [8mha:AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9xLz8vMrc/NJiAJjzDjjEAAAA[0manonymous
++Finished: ABORTED
+diff --git a/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild b/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
+index b393560..cabf43b 120000
+--- a/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
++++ b/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
+@@ -1 +1 @@
+-23
+\ No newline at end of file
++24
+\ No newline at end of file
+diff --git a/jobs/JenkinsConfBackUp/nextBuildNumber b/jobs/JenkinsConfBackUp/nextBuildNumber
+index 7273c0f..6f4247a 100644
+--- a/jobs/JenkinsConfBackUp/nextBuildNumber
++++ b/jobs/JenkinsConfBackUp/nextBuildNumber
+@@ -1 +1 @@
+-25
++26
