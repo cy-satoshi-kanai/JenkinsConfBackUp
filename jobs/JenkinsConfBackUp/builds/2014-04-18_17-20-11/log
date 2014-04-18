@@ -57,3 +57,28 @@ index aabe6ec..2bd5a0a 100644
 @@ -1 +1 @@
 -21
 +22
+[master 077859b] JenkinsConfBackUp
+ Committer: Jenkins Continuous Build server <jenkins@vc-hec-test.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 109 insertions(+), 3 deletions(-)
+ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-18-46/build.xml
+ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-20-11/changelog.xml
+ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-20-11/log
+ create mode 120000 jobs/JenkinsConfBackUp/builds/21
+warning: unable to unlink .git/objects/68/a769edd710ea671a38d76aefbca53680dec1db: Permission denied
+warning: unable to unlink .git/objects/f9/9a110424e69d595b344ad695cfdd2e460c6ae8: Permission denied
+warning: unable to unlink .git/objects/68/a769edd710ea671a38d76aefbca53680dec1db: Permission denied
+warning: unable to unlink .git/objects/f9/9a110424e69d595b344ad695cfdd2e460c6ae8: Permission denied
+fatal: could not read Username for 'https://github.com': No such device or address
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
