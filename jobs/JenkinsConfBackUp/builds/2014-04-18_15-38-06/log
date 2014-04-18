@@ -1,0 +1,10 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/jobs/JenkinsConfBackUp/workspace
+[workspace] $ /bin/sh /tmp/hudson7860018578693294015.sh
+fatal: Unable to create '/var/lib/jenkins/.git/index.lock': Permission denied
+fatal: Unable to create '/var/lib/jenkins/.git/packed-refs.lock': Permission denied
+error: failed to run pack-refs
+fatal: 'hoge@hoge' does not appear to be a git repository
+fatal: The remote end hung up unexpectedly
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

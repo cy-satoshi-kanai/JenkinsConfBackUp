@@ -1,0 +1,45 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/jobs/JenkinsConfBackUp/workspace
+[workspace] $ /bin/sh /tmp/hudson2906603867241371048.sh
+diff --git a/jobs/JenkinsConfBackUp/builds/2014-04-18_16-27-34/log b/jobs/JenkinsConfBackUp/builds/2014-04-18_16-27-34/log
+index 584bf6e..62b1470 100644
+--- a/jobs/JenkinsConfBackUp/builds/2014-04-18_16-27-34/log
++++ b/jobs/JenkinsConfBackUp/builds/2014-04-18_16-27-34/log
+@@ -43,3 +43,12 @@ index b4de394..48082f7 100644
+ @@ -1 +1 @@
+ -11
+ +12
++fatal: Unable to create '/var/lib/jenkins/.git/refs/heads/master.lock': Permission denied
++Nothing new to pack.
++error: unable to update .git/info/refs+
++error: cannot open .git/objects/info/packs+
++error: failed to run repack
++fatal: 'hoge@hoge' does not appear to be a git repository
++fatal: The remote end hung up unexpectedly
++Build step 'Execute shell' marked build as failure
++Finished: FAILURE
+diff --git a/jobs/JenkinsConfBackUp/builds/lastFailedBuild b/jobs/JenkinsConfBackUp/builds/lastFailedBuild
+index 9a03714..9d60796 120000
+--- a/jobs/JenkinsConfBackUp/builds/lastFailedBuild
++++ b/jobs/JenkinsConfBackUp/builds/lastFailedBuild
+@@ -1 +1 @@
+-10
+\ No newline at end of file
++11
+\ No newline at end of file
+diff --git a/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild b/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
+index 9a03714..9d60796 120000
+--- a/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
++++ b/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
+@@ -1 +1 @@
+-10
+\ No newline at end of file
++11
+\ No newline at end of file
+diff --git a/jobs/JenkinsConfBackUp/nextBuildNumber b/jobs/JenkinsConfBackUp/nextBuildNumber
+index 48082f7..b1bd38b 100644
+--- a/jobs/JenkinsConfBackUp/nextBuildNumber
++++ b/jobs/JenkinsConfBackUp/nextBuildNumber
+@@ -1 +1 @@
+-12
++13

@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hafner
+Build-Jdk: 1.7.0_45
+Extension-Name: tasks
+Specification-Title: This plug-in scans the workspace files for open t
+ asks        and generates a trend report.
+Implementation-Title: tasks
+Implementation-Version: 4.39
+Plugin-Class: hudson.plugins.tasks.TasksPlugin
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: tasks
+Long-Name: Task Scanner Plug-in
+Url: http://wiki.jenkins-ci.org/x/XoAs
+Plugin-Version: 4.39
+Hudson-Version: 1.424
+Jenkins-Version: 1.424
+Plugin-Dependencies: dashboard-view:2.2;resolution:=optional,token-mac
+ ro:1.5.1;resolution:=optional,maven-plugin:1.424;resolution:=optional
+ ,analysis-core:1.55
+Plugin-Developers: Ulli Hafner:drulli:ullrich.hafner@gmail.com
+

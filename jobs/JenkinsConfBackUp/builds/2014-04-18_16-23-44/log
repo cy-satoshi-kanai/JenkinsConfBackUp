@@ -1,0 +1,12 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/jobs/JenkinsConfBackUp/workspace
+[workspace] $ /bin/sh /tmp/hudson1397414731557563191.sh
+fatal: could not open '.git/COMMIT_EDITMSG': Permission denied
+Nothing new to pack.
+error: unable to update .git/info/refs+
+error: cannot open .git/objects/info/packs+
+error: failed to run repack
+fatal: 'hoge@hoge' does not appear to be a git repository
+fatal: The remote end hung up unexpectedly
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
