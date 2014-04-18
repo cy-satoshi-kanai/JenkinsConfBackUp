@@ -57,3 +57,26 @@ index 209e3ef..aabe6ec 100644
 @@ -1 +1 @@
 -20
 +21
+[master 5061a6c] JenkinsConfBackUp
+ Committer: Jenkins Continuous Build server <jenkins@vc-hec-test.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 109 insertions(+), 3 deletions(-)
+ create mode 120000 jobs/JenkinsConfBackUp/builds/20
+ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-17-48/build.xml
+ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-18-46/changelog.xml
+ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_17-18-46/log
+fatal: Unable to create '/var/lib/jenkins/.git/refs/remotes/origin/master.lock': Permission denied
+error: failed to run pack-refs
+fatal: could not read Username for 'https://github.com': No such device or address
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
