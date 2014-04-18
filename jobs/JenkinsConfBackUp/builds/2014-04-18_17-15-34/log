@@ -1,0 +1,58 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/jobs/JenkinsConfBackUp/workspace
+[workspace] $ /bin/sh /tmp/hudson8200276961918226430.sh
+diff --git a/jobs/JenkinsConfBackUp/builds/2014-04-18_16-51-40/log b/jobs/JenkinsConfBackUp/builds/2014-04-18_16-51-40/log
+index 5f8b815..08d5c88 100644
+--- a/jobs/JenkinsConfBackUp/builds/2014-04-18_16-51-40/log
++++ b/jobs/JenkinsConfBackUp/builds/2014-04-18_16-51-40/log
+@@ -112,3 +112,25 @@ index 98d9bcb..3c03207 100644
+ @@ -1 +1 @@
+ -17
+ +18
++[master 71f619b] JenkinsConfBackUp
++ Committer: Jenkins Continuous Build server <jenkins@vc-hec-test.(none)>
++Your name and email address were configured automatically based
++on your username and hostname. Please check that they are accurate.
++You can suppress this message by setting them explicitly:
++
++    git config --global user.name "Your Name"
++    git config --global user.email you@example.com
++
++After doing this, you may fix the identity used for this commit with:
++
++    git commit --amend --reset-author
++
++ 8 files changed, 219 insertions(+), 3 deletions(-)
++ create mode 120000 jobs/JenkinsConfBackUp/builds/17
++ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_16-50-55/build.xml
++ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_16-51-40/changelog.xml
++ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_16-51-40/log
++fatal: 'HEC' does not appear to be a git repository
++fatal: The remote end hung up unexpectedly
++Build step 'Execute shell' marked build as failure
++Finished: FAILURE
+diff --git a/jobs/JenkinsConfBackUp/builds/lastFailedBuild b/jobs/JenkinsConfBackUp/builds/lastFailedBuild
+index 19c7bdb..8e2afd3 120000
+--- a/jobs/JenkinsConfBackUp/builds/lastFailedBuild
++++ b/jobs/JenkinsConfBackUp/builds/lastFailedBuild
+@@ -1 +1 @@
+-16
+\ No newline at end of file
++17
+\ No newline at end of file
+diff --git a/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild b/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
+index 19c7bdb..8e2afd3 120000
+--- a/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
++++ b/jobs/JenkinsConfBackUp/builds/lastUnsuccessfulBuild
+@@ -1 +1 @@
+-16
+\ No newline at end of file
++17
+\ No newline at end of file
+diff --git a/jobs/JenkinsConfBackUp/nextBuildNumber b/jobs/JenkinsConfBackUp/nextBuildNumber
+index 3c03207..d6b2404 100644
+--- a/jobs/JenkinsConfBackUp/nextBuildNumber
++++ b/jobs/JenkinsConfBackUp/nextBuildNumber
+@@ -1 +1 @@
+-18
++19
