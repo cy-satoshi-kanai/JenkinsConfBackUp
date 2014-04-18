@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause/>
+      </causes>
+    </hudson.model.CauseAction>
+    <com.sonyericsson.rebuild.RebuildAction plugin="rebuild@1.21"/>
+  </actions>
+  <number>15</number>
+  <startTime>1397806951306</startTime>
+  <result>FAILURE</result>
+  <duration>1593</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/var/lib/jenkins/jobs/JenkinsConfBackUp/workspace</workspace>
+  <hudsonVersion>1.559</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

@@ -88,3 +88,26 @@ index 60d3b2f..b6a7d89 100644
 @@ -1 +1 @@
 -15
 +16
+[master 491acd2] JenkinsConfBackUp
+ Committer: Jenkins Continuous Build server <jenkins@vc-hec-test.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 92 insertions(+), 60 deletions(-)
+ delete mode 120000 jobs/JenkinsConfBackUp/builds/14
+ create mode 120000 jobs/JenkinsConfBackUp/builds/15
+ delete mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_16-41-32/log
+ rename jobs/JenkinsConfBackUp/builds/{2014-04-18_16-41-32 => 2014-04-18_16-42-31}/changelog.xml (100%)
+ create mode 100644 jobs/JenkinsConfBackUp/builds/2014-04-18_16-42-31/log
+fatal: 'hoge@hoge' does not appear to be a git repository
+fatal: The remote end hung up unexpectedly
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
