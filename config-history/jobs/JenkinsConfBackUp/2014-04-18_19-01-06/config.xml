@@ -27,7 +27,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>sudo -u hec_dev /home/hec_dev/bin/jenkins/backup_jenkins_conf_backup.sh</command>
+      <command>sudo -u hec_dev /home/hec_dev/bin/backup_jenkins_conf_backup.sh</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
